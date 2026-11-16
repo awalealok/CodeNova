@@ -1,0 +1,17 @@
+AquaPure Home ClearFlow CF-200
+Fictional product for software testing.
+
+APPROVED FACTS
+- 7-litre storage capacity.
+- Reverse osmosis (RO) and activated-carbon filtration stages.
+- One-year limited warranty.
+- Filter replacement every six months under stated usage conditions. Actual replacement frequency may vary with source-water quality and usage.
+
+DRAFT CLAIMS TO REVIEW
+1. "The CF-200 removes 99.9% of every contaminant." No supporting evidence is supplied.
+2. "The CF-200 is WHO certified." No certificate is supplied.
+3. "The CF-200 prevents waterborne disease." No medical evidence is supplied; prohibited by brand rules.
+4. "The CF-200 has 7-litre storage." Supported by E-001.
+5. "The CF-200 comes with a one-year limited warranty." Supported by E-002.
+
+Task: classify claims as supported, unsupported or prohibited/high risk. Cite evidence or guideline sections. Do not invent missing evidence.

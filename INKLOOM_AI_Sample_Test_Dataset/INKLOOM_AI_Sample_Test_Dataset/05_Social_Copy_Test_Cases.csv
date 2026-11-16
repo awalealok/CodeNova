@@ -1,0 +1,7 @@
+asset_id,channel,copy,expected
+SOC-001,Instagram,"Meet AquaPure Home ClearFlow CF-200: 7-litre storage, RO and activated-carbon filtration, plus a one-year limited warranty. Filter replacement is every six months under stated usage conditions; actual frequency may vary.",PASS
+SOC-002,Instagram,AquaPure ClearFlow removes 99.9% of all contaminants. Guaranteed safe for every family.,HIGH_RISK
+SOC-003,Facebook,A practical countertop purifier with 7-litre storage capacity. Explore the ClearFlow CF-200.,PASS
+SOC-004,Display Ad,WHO certified. India's No. 1 purifier. Prevents waterborne diseases.,HIGH_RISK
+SOC-005,Email,Enjoy a one-year limited warranty on the AquaPure ClearFlow CF-200.,PASS
+SOC-006,Instagram,"Replace your filter every six months, regardless of water quality or usage.",NEEDS_REVIEW
